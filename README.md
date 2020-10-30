@@ -1,6 +1,6 @@
 # getEthAndTrxBalance For PHP
 
-CoinBalanceController.php is use laravel
+CoinBalanceController.php is used laravel
 
 # Composer Related version
 
